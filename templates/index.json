@@ -1,12 +1,12 @@
 {
-    "name": "Home Page",
-    "sections": {
-        "helloworld": {
-            "type": "hello",
-            "settings": {}
-        }
-    },
-    "order": [
-        "helloworld"
-    ]
+  "sections": {
+    "helloworld": {
+      "type": "hello",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "helloworld"
+  ]
 }
